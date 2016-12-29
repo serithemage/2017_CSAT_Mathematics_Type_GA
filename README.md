@@ -3,6 +3,7 @@
 
 - 문제는 [여기](http://cdnvod.yonhapnews.co.kr/yonhapnewsvod/public/20161117/2/2017_2.pdf)에서 확인하실 수 있습니다.
 - 실행결과는 [이쪽](http://mybinder.org/repo/serithemage/2017_csat_mathematics_type_ga)에서 확인 하실 수 있습니다.
+- 소스와 실행결과가 동기화 되않았을 경우 [여기](http://mybinder.org/status/serithemage/2017_csat_mathematics_type_ga)를 클릭 해 주세요.
 - 풀이에 대한 의견은 [issues](https://github.com/serithemage/2017_CSAT_Mathematics_Type_GA/issues)에 적어주세요.
 - [jupyter notebook](http://jupyter.org/)을 이용해서 풀고 있습니다.
 - jupyter notebook은 [Anaconda](https://www.continuum.io/downloads)를 통해 손쉽게 설치할 수 있습니다.
